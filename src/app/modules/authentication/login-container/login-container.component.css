@@ -1,0 +1,24 @@
+.login_button
+{
+    background-color:#1feda5;
+    width:120px;
+    height:50px;
+    border-radius: 6px;
+    border-color:#d9fae2;
+    color: #FFFFFF;
+    font-size: 20px;
+}
+.login-box{
+    border-color: black;
+    border-width: 400px;
+}
+.form-box{
+background-color: #e8e5e3;
+width: 300px;
+padding-top: 30px;
+}
+.input-box{
+width: 250px;
+border-radius: 10px;
+height:25px;
+}
